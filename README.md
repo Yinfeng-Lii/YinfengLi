@@ -72,6 +72,7 @@ I am always open to discussing new projects, research ideas, or collaboration op
 
 - **📧 Email:** [li15653530008@gmail.com](mailto:li15653530008@gmail.com)
 - **💼 LinkedIn:** www.linkedin.com/in/yinfeng-li-01528538a
+- 🐙 **GitHub:** [Yinfeng-Lii](https://github.com/Yinfeng-Lii)
 - 📄 **My CV:** [View My CV](https://github.com/Yinfeng-Lii/CV/blob/0d54848cf710fa66252ed376c14f5198be8a1158/YinfengLI-cv.pdf)
 
 </div>

@@ -72,10 +72,7 @@ I am always open to discussing new projects, research ideas, or collaboration op
 
 - **📧 Email:** [li15653530008@gmail.com](mailto:li15653530008@gmail.com)
 - **💼 LinkedIn:** www.linkedin.com/in/yinfeng-li-01528538a
-
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](你的LinkedIn链接)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:li15653530008@163.com)
-[<img src="https://img.shields.io/badge/CV-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white" />](YinfengLI-cv.pdf)
+- ** cv **https://github.com/li15653530008-prog/CV/blob/0d54848cf710fa66252ed376c14f5198be8a1158/YinfengLI-cv.pdf**
 
 </div>
 ---

@@ -48,7 +48,47 @@
 - **CAD & AutoCAD**
 - **DSP Programming**
 ---
+---
+### 🔬 PERSONAL PROJECTS
 
+<table width="100%">
+  <tr>
+    <!-- Balance vehicle -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="[https://github.com/Yinfeng-Lii/balance-vehicle]" target="_blank">
+          Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
+        </a>
+      </h3>
+      <br />
+      <a href="[https://github.com/Yinfeng-Lii/balance-vehicle]" target="_blank">
+        <img src="[你的SLAM项目图片或GIF链接]" width="100%" alt="Lidar SLAM Project Preview"/>
+      </a>
+      <br />
+      <p align="left">
+        Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers and applying a PID control algorithm to overcome the limitations of a single sensor.
+      </p>
+    </td>
+    <!-- 动作捕捉项目 -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="[你的动作捕捉项目仓库链接]" target="_blank">
+          Full-Body Motion Capture with 3D model with a Web Application
+        </a>
+      </h3>
+      <br />
+      <a href="[你的动作捕捉项目仓库链接]" target="_blank">
+        <img src="[你的动作捕捉项目图片或GIF链接]" width="100%" alt="Full-Body Motion Capture Preview"/>
+      </a>
+      <br />
+      <p align="left">
+        ESP32-based full-body motion capture system using IMUs, that transmits live data to a web application, enabling real-time visualisation of a 3D model and tracking of human positions and postures.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 ### 🔬 Projects & Research
 
 Here are some of the key projects that showcase my skills and experience.

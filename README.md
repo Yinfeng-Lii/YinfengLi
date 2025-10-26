@@ -54,9 +54,8 @@
 Here are some of the key projects that showcase my skills and experience.
 
 **1. Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion**
-   - **Description:** This was my undergraduate capstone project where I designed and built a robust control system to stabilize a two-wheeled vehicle. The project involved fusing data from an IMU (gyroscope and accelerometer) to achieve stable balancing.
-   - **Technologies Used:** C, Keil, Sensor Fusion Algorithms, PID Control.
-   -  
+   -  Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers and applying a PID control algorithm to overcome the limitations of a single sensor.
+ 
 
 **2. **
   

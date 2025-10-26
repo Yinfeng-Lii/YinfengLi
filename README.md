@@ -62,7 +62,7 @@
       </h3>
       <a href="https://youtu.be/XHd4n2JKx90" target="_blank">
         <div align="center">
-        <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/e133eca70ee4f5f9316a33c994d8272b.jpg"  width="80%" alt="Balance vehicle project"/>
+        <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/balance.png"  width="80%" alt="Balance vehicle project"/>
       </a>
       <br />
       <p align="left">

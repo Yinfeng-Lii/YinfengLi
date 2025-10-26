@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yinfeng Li (李胤锋)
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRxa2hiczBpdWhvcTVteXp6NzBkZHkzcWcydXV2a2Jra3FqamNpdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58OujxlE7e19Mjv0gj/giphy.gif" alt="Typing GIF" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRxa2hiczBpdWhvcTVteXp6NzBkZHkzcWcydXV2a2Jra3FqamNpdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58OujxlE7e19Mjv0gj/giphy.gif" alt="Typing GIF" width="250"/>
 </div>
 
 ---

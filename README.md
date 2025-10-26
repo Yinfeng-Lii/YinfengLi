@@ -4,7 +4,7 @@
 </div>
 
 ---
- About me : 
+### About me : 
  
 - :earth_asia: I am from China.
 
@@ -13,6 +13,12 @@
 - :man_student: I am a passionate postgraduate student currently pursuing an **MSc in Robotics** at the **University of Manchester**. 
 
 - :microscope: Growing up with WALL·E, The Matrix, Transformers, and Pacific Rim, I found that movies were not just entertainment — they were the very beginning of my journey into robotics.
+
+---
+
+## Career Objectives and Research Interests
+
+ My goal is to become a Robotics Perception Engineer. I'm passionate about using computer vision to solve real-world problems. I specialize in developing and optimizing 2D/3D visual perception algorithms for robotics, such as object recognition, scene segmentation, and 3D reconstruction.
 
 ---
 
@@ -26,23 +32,19 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Control Systems & Simulation**
-- **Simulink**
 - **Control Algorithm Design** (PID, State-Space)
 - **Intelligent Control** (Fuzzy Logic, Neural Networks)
 
 **Robotics & Embedded Systems**
-- **Embedded C/C++**
-- **Microcontrollers (MCUs)** (e.g., STM32, ARM Cortex)
-- **Communication Protocols** (I2C, SPI, UART)
+- **Microcontrollers** 
 - **Keil MDK**
 
 **Computer Vision & Data Science**
 - **OpenCV**
-- **NumPy & Pandas**
 - **Matplotlib & Seaborn**
 
 **Electronics & Design**
-- **Circuit Simulation** (Multisim, PSpice)
+- **Circuit Simulation** 
 - **CAD & AutoCAD**
 - **DSP Programming**
 ---
@@ -64,23 +66,12 @@ Here are some of the key projects that showcase my skills and experience.
 
 ---
 
-### 🌱 I'm Currently Learning
-
-I believe in continuous learning and am currently deepening my knowledge in:
-
-- **Robot Operating System (ROS2)**
-- **Computer Vision & Deep Learning for Robotics**
-- **Advanced Control Theory**
-- **Simulink for Dynamic System Simulation**
-
----
-
 ### 📫 How to Reach Me
 
 I am always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to connect with me!
 
 - **📧 Email:** [li15653530008@gmail.com](mailto:li15653530008@gmail.com)
-- **💼 LinkedIn:** `www.linkedin.com/in/yinfeng-li-01528538a`
+- **💼 LinkedIn:** www.linkedin.com/in/yinfeng-li-01528538a
 
 ---
 

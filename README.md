@@ -14,6 +14,8 @@
 
 - :microscope: Growing up with WALL·E, The Matrix, Transformers, and Pacific Rim, I found that movies were not just entertainment — they were the very beginning of my journey into robotics.
 
+- 📄 **My CV:** [View My CV](https://github.com/Yinfeng-Lii/CV/blob/0d54848cf710fa66252ed376c14f5198be8a1158/YinfengLI-cv.pdf)
+
 ---
 
 ## Career Objectives and Research Interests
@@ -22,32 +24,60 @@
 
 ---
 
-### 🔧 My Tech Stack
+### 💡 My Core Skill Areas
 
-**Programming & Software Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+<details>
+  <summary><strong>💻 Programming & Software Development</strong></summary>
+  <p>
+   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="60" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="60" alt="C#"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="60" alt="MATLAB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" height="60" alt="OpenCV"></a>
+  <a href="#"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="60" alt="Jupyter Notebook"></a>
+  <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="60" alt="LaTeX"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" height="60" alt="Linux"></a>
+    <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="60" alt="Java"></a>
+    <a href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="60" alt="C"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="60" alt="Visual Studio Code"></a>
+     <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="60" alt="GitHub"></a>
+     <a href="#"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="60" alt="Amazon DynamoDB"></a>
+  </p>
+</details>
 
-**Control Systems & Simulation**
-- **Control Algorithm Design** (PID, State-Space)
-- **Intelligent Control** (Fuzzy Logic, Neural Networks)
+<details open>
+  <summary>
+    <h3>🤖 Robotics & Embedded Systems</h3>
+  </summary>
+  <p>
+    - <strong>Frameworks:</strong> Hands-on experience with ROS (Robot Operating System). <br>
+    - <strong>Hardware:</strong> Expertise in programming Microcontrollers (ARM, STM32). <br>
+    - <strong>Development:</strong> Skilled in using Keil MDK for embedded systems.
+  </p>
+</details>
 
-**Robotics & Embedded Systems**
-- **Microcontrollers** 
-- **Keil MDK**
+<details>
+  <summary>
+    <h3>🧠 Control Systems</h3>
+  </summary>
+  <p>
+    - <strong>Algorithm Design:</strong> PID, State-Space, LQR controllers. <br>
+    - <strong>Intelligent Control:</strong> Familiar with Fuzzy Logic and Neural Networks applications. <br>
+    - <strong>Simulation:</strong> Extensive use of MATLAB & Simulink for system modeling.
+  </p>
+</details>
 
-**Computer Vision & Data Science**
-- **OpenCV**
-- **Matplotlib & Seaborn**
+<details>
+  <summary>
+    <h3>👁️ Computer Vision</h3>
+  </summary>
+  <p>
+    - <strong>Libraries:</strong> Image processing and analysis using OpenCV. <br>
+    - <strong>Data Science:</strong> Data visualization with Matplotlib & Seaborn. <br>
+    - <strong>Design Tools:</strong> Proficient in CAD & AutoCAD for mechanical design. <br>
+    - <strong>Electronics:</strong> Experience with Circuit Simulation and DSP Programming.
+  </p>
+</details>
 
-**Electronics & Design**
-- **Circuit Simulation** 
-- **CAD & AutoCAD**
-- **DSP Programming**
----
 ---
 ### 🔬 PERSONAL PROJECTS
 
@@ -67,14 +97,14 @@
   </a>
       <br />
   <p align="left">
-    Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers and applying a PID control algorithm to overcome the limitations of a single sensor.
+    Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers, and applying a PID control algorithm to overcome the limitations of a single sensor.
   </p>
     </td>
     <!-- 动作捕捉项目 -->
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="[你的动作捕捉项目仓库链接]" target="_blank">
-          Full-Body Motion Capture with 3D model with a Web Application
+          License Plate Recognition
         </a>
       </h3>
       <br />
@@ -91,8 +121,6 @@
 
 ---
 
----
-
 ### 📫 Get In Touch
 
 I am always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to connect with me!
@@ -100,8 +128,8 @@ I am always open to discussing new projects, research ideas, or collaboration op
 - **📧 Email:** [li15653530008@gmail.com](mailto:li15653530008@gmail.com)
 - **💼 LinkedIn:** www.linkedin.com/in/yinfeng-li-01528538a
 - 🐙 **GitHub:** [Yinfeng-Lii](https://github.com/Yinfeng-Lii)
-- 📄 **My CV:** [View My CV](https://github.com/Yinfeng-Lii/CV/blob/0d54848cf710fa66252ed376c14f5198be8a1158/YinfengLI-cv.pdf)
 
 </div>
+
 ---
 

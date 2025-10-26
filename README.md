@@ -62,7 +62,7 @@
       </h3>
       <br />
       <a href="[https://github.com/Yinfeng-Lii/balance-vehicle]" target="_blank">
-        <img src="[你的SLAM项目图片或GIF链接]" width="100%" alt="Lidar SLAM Project Preview"/>
+        <img src="[https://github.com/Yinfeng-Lii/image/blob/21e28f5613e38ec5c84e42e6d49826eaf866cceb/e133eca70ee4f5f9316a33c994d8272b.jpg]" width="100%" alt="Balance vehicle"/>
       </a>
       <br />
       <p align="left">

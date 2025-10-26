@@ -58,6 +58,7 @@
       <h3 align="center">
         <a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">
           Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
+         </div>  
         </a>
       </h3>
       <a href="https://youtu.be/XHd4n2JKx90" target="_blank">

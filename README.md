@@ -52,17 +52,16 @@
 ### 🔬 PERSONAL PROJECTS
 
 <table width="100%">
-  <tr>
-    <!-- Balance vehicle -->
+  <!-- Balance vehicle -->
     <td width="50%" valign="top">
+      <!-- 标题链接到 GitHub 仓库 -->
       <h3 align="center">
-        <a href="[https://github.com/Yinfeng-Lii/balance-vehicle]" target="_blank">
+        <a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">
           Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
         </a>
       </h3>
-      <br />
-      <a href="[https://github.com/Yinfeng-Lii/balance-vehicle]" target="_blank">
-        <img src="[https://github.com/Yinfeng-Lii/image/blob/21e28f5613e38ec5c84e42e6d49826eaf866cceb/e133eca70ee4f5f9316a33c994d8272b.jpg]" width="70%" alt="Balance vehicle"/>
+      <a href="[这里粘贴你的YouTube或B站视频链接]" target="_blank">
+        <img src="[这里粘贴你修正后的图片原始链接]" width="100%" alt="Balance vehicle project demo"/>
       </a>
       <br />
       <p align="left">

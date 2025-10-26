@@ -66,18 +66,12 @@ Here are some of the key projects that showcase my skills and experience.
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Get In Touch
 
 I am always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to connect with me!
 
 - **📧 Email:** [li15653530008@gmail.com](mailto:li15653530008@gmail.com)
 - **💼 LinkedIn:** www.linkedin.com/in/yinfeng-li-01528538a
-
-
-
-### 📫 Get In Touch
-
-<div align="center">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](你的LinkedIn链接)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:li15653530008@163.com)

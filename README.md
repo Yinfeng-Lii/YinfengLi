@@ -53,7 +53,7 @@
 
 Here are some of the key projects that showcase my skills and experience.
 
-**1. Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion**
+**1. [Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion](https://github.com/Yinfeng-Lii/balance-vehicle)**
    -  Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers and applying a PID control algorithm to overcome the limitations of a single sensor.
  
 

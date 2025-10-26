@@ -56,19 +56,19 @@
     <td width="50%" valign="top">
       <!-- 标题链接到 GitHub 仓库 -->
       <h3 align="center">
-        <a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">
-          Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
-         </div>  
-        </a>
-      </h3>
+    <a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">
+      Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
+    </a>
+  </h3>
       <a href="https://youtu.be/XHd4n2JKx90" target="_blank">
-        <div align="center">
-        <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/balance.png"  width="80%" alt="Balance vehicle project"/>
-      </a>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/balance.png" width="80%" alt="Balance vehicle project demo"/>
+    </div>
+  </a>
       <br />
-      <p align="left">
-        Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers and applying a PID control algorithm to overcome the limitations of a single sensor.
-      </p>
+  <p align="left">
+    Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers and applying a PID control algorithm to overcome the limitations of a single sensor.
+  </p>
     </td>
     <!-- 动作捕捉项目 -->
     <td width="50%" valign="top">

@@ -60,8 +60,8 @@
           Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
         </a>
       </h3>
-      <a href="[这里粘贴你的YouTube或B站视频链接]" target="_blank">
-        <img src="[这里粘贴你修正后的图片原始链接]" width="100%" alt="Balance vehicle project demo"/>
+      <a href="[https://youtu.be/XHd4n2JKx90]" target="_blank">
+        <img src="[https://raw.githubusercontent.com/Yinfeng-Lii/image/main/e133eca70ee4f5f9316a33c994d8272b.jpg]" width="100%" alt="Balance vehicle project"/>
       </a>
       <br />
       <p align="left">

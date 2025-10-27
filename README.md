@@ -108,8 +108,9 @@
         </a>
       </h3>
       <br />
-      <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
-        <img src="https://github.com/Yinfeng-Lii/image/main/car1.jpg" width="100%" alt="Full-Body Motion Capture Preview"/>
+      <div align="center">
+      <img src="https://github.com/Yinfeng-Lii/image/main/car1.jpg" width="100%" alt="Full-Body Motion Capture Preview"/>
+      </div>
       </a>
       <br />
       <p align="left">

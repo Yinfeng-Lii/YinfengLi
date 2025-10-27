@@ -24,9 +24,9 @@
  
 - :earth_asia: I am from China.
 
-- :school: My academic journey began with a Bachelor's degree in **Automation** from **Shandong University of Science and Technology**.
+- :school: My academic studies began with a Bachelor's degree in **Automation** from **Shandong University of Science and Technology**.
 
-- :man_student: I am a passionate postgraduate student currently pursuing an **MSc in Robotics** at the **University of Manchester**. 
+- :man_student: I am a passionate postgraduate student currently an **MSc in Robotics** at the **University of Manchester**. 
 
 - :microscope: Growing up with WALL·E, The Matrix, Transformers, and Pacific Rim, I found that movies were not just entertainment — they were the very beginning of my journey into robotics.
 
@@ -65,9 +65,9 @@
     <h3>🤖 Robotics & Embedded Systems</h3>
   </summary>
   <p>
-    - Hands-on experience with ROS1. <br>
-    - Expertise in programming Microcontrollers (ARM, STM32). <br>
-    - Skilled in using Keil MDK for embedded systems.
+    - Experience with ROS1. <br>
+    - Programming in Microcontrollers (ARM, STM32). <br>
+    - Using Keil MDK for embedded systems.
   </p>
 </details>
 
@@ -76,9 +76,9 @@
     <h3>🧠 Control Systems</h3>
   </summary>
   <p>
-    - <strong>Algorithm Design:</strong> PID, State-Space, LQR controllers. <br>
-    - <strong>Intelligent Control:</strong> Familiar with Fuzzy Logic and Neural Networks applications. <br>
-    - <strong>Simulation:</strong> Extensive use of MATLAB & Simulink for system modeling.
+    - <strong>Algorithm Design:</strong> PID, State-Space, LQR. <br>
+    - <strong>Intelligent Control:</strong> Fuzzy Logic and Neural Networks . <br>
+    - <strong>Simulation:</strong> Using of MATLAB & Simulink for system modeling.
   </p>
 </details>
 
@@ -87,10 +87,9 @@
     <h3>👁️ Computer Vision</h3>
   </summary>
   <p>
-    - Image processing and analysis using OpenCV. <br>
-    - Data visualization with Matplotlib & Seaborn. <br>
-    - Proficient in CAD & AutoCAD for mechanical design. <br>
-    - Experience with Circuit Simulation and DSP Programming.
+    - Using OpenCV for Image processing and analysis. <br>
+    - Through CAD & AutoCAD for mechanical design. <br>
+    - Experience with Circuit Simulation.
   </p>
 </details>
 
@@ -183,7 +182,6 @@
 <a name="contact"></a>
 ## 📫 Get In Touch
 
-I am always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to connect with me!
 
 - **📧 Email:** [li15653530008@gmail.com](mailto:li15653530008@gmail.com)
 - **💼 LinkedIn:** www.linkedin.com/in/yinfeng-li-01528538a

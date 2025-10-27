@@ -103,12 +103,12 @@
     <!-- 动作捕捉项目 -->
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/Yinfeng-Lii/balance-vehicle/License Plate Recognition" target="_blank">
+        <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
           License Plate Recognition
         </a>
       </h3>
       <br />
-      <a href="https://github.com/Yinfeng-Lii/balance-vehicle/License Plate Recognition" target="_blank">
+      <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
         <img src="[你的动作捕捉项目图片或GIF链接]" width="100%" alt="Full-Body Motion Capture Preview"/>
       </a>
       <br />

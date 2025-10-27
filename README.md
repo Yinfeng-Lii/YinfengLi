@@ -109,7 +109,7 @@
       </h3>
       <br />
       <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
-        <img src="[你的动作捕捉项目图片或GIF链接]" width="100%" alt="Full-Body Motion Capture Preview"/>
+        <img src="https://github.com/Yinfeng-Lii/image/main/car1.jpg" width="100%" alt="Full-Body Motion Capture Preview"/>
       </a>
       <br />
       <p align="left">

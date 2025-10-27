@@ -118,20 +118,22 @@
   </p>
     </td>
     <!-- 动作捕捉项目 -->
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
-          License Plate Recognition
+        <a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system" target="_blank">
+          "Spiritual Realm" Bionic School——Assisted Teaching System
         </a>
       </h3>
-      <br />
-      <div align="center">
-      <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/car1.jpg" width="80%" alt="License Plate Recognition"/>
-      </div>
+      <br>
+  <br>
+      <a href="[你的新项目三视频链接]" target="_blank">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片1.jpg" width="1000%" alt="New Project 3"/>
+        </div>
       </a>
       <br />
       <p align="left">
-       The system allows users to select a license plate image via file opening and automatically performs plate detection and segmentation. Through grayscale conversion, binarization, morphological processing, and edge enhancement, it locates and recognizes characters. 
+        The project aims to use virtual reality and AI to create an immersive learning system for disabled students, offering equal access, interactive education, and psychological support in a virtual classroom.
       </p>
     </td>
   
@@ -139,20 +141,20 @@
 
   <tr>
     <!-- 项目三: 新项目 -->
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system" target="_blank">
-          "Spiritual Realm" Bionic School——Assisted Teaching System
+        <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
+          License Plate Recognition
         </a>
       </h3>
-      <a href="[你的新项目三视频链接]" target="_blank">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片1.jpg" width="80%" alt="New Project 3"/>
-        </div>
+      <br />
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/car1.jpg" width="60%" alt="License Plate Recognition"/>
+      </div>
       </a>
       <br />
       <p align="left">
-        The project aims to use virtual reality and AI to create an immersive learning system for disabled students, offering equal access, interactive education, and psychological support in a virtual classroom.
+       The system allows users to select a license plate image via file opening and automatically performs plate detection and segmentation. Through grayscale conversion, binarization, morphological processing, and edge enhancement, it locates and recognizes characters. 
       </p>
     </td>
     <!-- 项目四: 新项目 -->
@@ -162,9 +164,10 @@
           Smart home system
         </a>
       </h3>
+       <br>
       <a href="https://youtube.com/shorts/R5R-DXSckO8" target="_blank">
         <div align="center">
-          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片2.jpg" width="90%" alt="New Project 4"/>
+          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/smart home.png" width="70%" alt="New Project 4"/>
         </div>
       </a>
       <br />

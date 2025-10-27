@@ -141,7 +141,7 @@
     <!-- 项目四: 新项目 -->
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="[你的新项目四仓库链接]" target="_blank">
+        <a href="https://github.com/Yinfeng-Lii/Smart-home" target="_blank">
           Smart home system
         </a>
       </h3>

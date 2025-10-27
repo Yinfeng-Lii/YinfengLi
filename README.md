@@ -124,7 +124,7 @@
     <!-- 项目三: 新项目 -->
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="[你的新项目三仓库链接]" target="_blank">
+        <a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system" target="_blank">
           "Spiritual Realm" Bionic School——Assisted Teaching System
         </a>
       </h3>

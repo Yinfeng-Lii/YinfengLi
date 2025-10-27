@@ -147,7 +147,7 @@
       </h3>
       <a href="[你的新项目四视频链接]" target="_blank">
         <div align="center">
-          <img src="[你的新项目四图片原始链接]" width="90%" alt="New Project 4"/>
+          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片2.jpg" width="90%" alt="New Project 4"/>
         </div>
       </a>
       <br />

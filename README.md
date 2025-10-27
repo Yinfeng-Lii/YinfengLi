@@ -2,16 +2,25 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/fs.png" alt="Yinfeng Li's Personal Header Banner">
 </div>
-<div align="center" style="font-family: sans-serif; font-size: 16px;">
+<div align="center">
   <br>
-  <a href="#about-me"><b>👤 About</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#skills"><b>💡 Skills</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#projects"><b>🚀 Projects</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#contact"><b>📬 Contact</b></a>
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/-About%20Me-555?style=for-the-badge&logo=user&logoColor=white" alt="About Me"/>
+  </a>&nbsp;
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/-Core%20Skills-555?style=for-the-badge&logo=cogs&logoColor=white" alt="Skills"/>
+  </a>&nbsp;
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/-Projects-555?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+  </a>&nbsp;
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/-Contact-555?style=for-the-badge&logo=envelope&logoColor=white" alt="Contact"/>
+  </a>
   <br>
 </div>
 
-### About me : 
+<a name="about-me"></a>
+## 👋 About me 
  
 - :earth_asia: I am from China.
 
@@ -24,14 +33,14 @@
 - 📄 **My CV:** [View My CV](https://github.com/Yinfeng-Lii/CV/blob/0d54848cf710fa66252ed376c14f5198be8a1158/YinfengLI-cv.pdf)
 
 ---
-
-## Career Objectives and Research Interests
+<a name="career"></a>
+## 🚀 Career Objectives and Research Interests
 
  My goal is to become a Robotics Perception Engineer. I'm passionate about using computer vision to solve real-world problems. I specialize in developing and optimizing 2D/3D visual perception algorithms for robotics, such as object recognition, scene segmentation, and 3D reconstruction.
 
 ---
-
-### 💡 My Core Skill Areas
+<a name="skills"></a>
+## 💡 My Core Skill Areas
 
 <details>
   <summary><strong>💻 Programming & Software Development</strong></summary>
@@ -86,7 +95,8 @@
 </details>
 
 ---
-### 🔬 PERSONAL PROJECTS
+<a name="projects"></a>
+## 🔬 PERSONAL PROJECTS
 
 <table width="100%">
   <!-- Balance vehicle -->
@@ -167,8 +177,8 @@
 </table>
 
 ---
-
-### 📫 Get In Touch
+<a name="contact"></a>
+## 📫 Get In Touch
 
 I am always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to connect with me!
 

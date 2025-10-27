@@ -142,7 +142,7 @@
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="[你的新项目四仓库链接]" target="_blank">
-          [新项目四的标题]
+          Smart home system
         </a>
       </h3>
       <a href="[你的新项目四视频链接]" target="_blank">
@@ -152,7 +152,7 @@
       </a>
       <br />
       <p align="left">
-        [这里填写新项目四的简短描述，说明它的功能和使用的技术。]
+        The project aims to develop an STM32-based smart home system for remote control, environmental monitoring, automatic regulation, energy saving, and data security to create a safer, more efficient home.
       </p>
     </td>
   </tr>

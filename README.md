@@ -44,14 +44,14 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary>
     <h3>🤖 Robotics & Embedded Systems</h3>
   </summary>
   <p>
-    - <strong>Frameworks:</strong> Hands-on experience with ROS (Robot Operating System). <br>
-    - <strong>Hardware:</strong> Expertise in programming Microcontrollers (ARM, STM32). <br>
-    - <strong>Development:</strong> Skilled in using Keil MDK for embedded systems.
+    - Hands-on experience with ROS1. <br>
+    - Expertise in programming Microcontrollers (ARM, STM32). <br>
+    - Skilled in using Keil MDK for embedded systems.
   </p>
 </details>
 
@@ -71,10 +71,10 @@
     <h3>👁️ Computer Vision</h3>
   </summary>
   <p>
-    - <strong>Libraries:</strong> Image processing and analysis using OpenCV. <br>
-    - <strong>Data Science:</strong> Data visualization with Matplotlib & Seaborn. <br>
-    - <strong>Design Tools:</strong> Proficient in CAD & AutoCAD for mechanical design. <br>
-    - <strong>Electronics:</strong> Experience with Circuit Simulation and DSP Programming.
+    - Image processing and analysis using OpenCV. <br>
+    - Data visualization with Matplotlib & Seaborn. <br>
+    - Proficient in CAD & AutoCAD for mechanical design. <br>
+    - Experience with Circuit Simulation and DSP Programming.
   </p>
 </details>
 
@@ -118,6 +118,43 @@
       </p>
     </td>
   
+  </tr>
+
+  <tr>
+    <!-- 项目三: 新项目 -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="[你的新项目三仓库链接]" target="_blank">
+          "Spiritual Realm" Bionic School——Assisted Teaching System
+        </a>
+      </h3>
+      <a href="[你的新项目三视频链接]" target="_blank">
+        <div align="center">
+          <img src="[你的新项目三图片原始链接]" width="90%" alt="New Project 3"/>
+        </div>
+      </a>
+      <br />
+      <p align="left">
+        The project aims to use virtual reality and AI to create an immersive learning system for disabled students, offering equal access, interactive education, and psychological support in a virtual classroom.
+      </p>
+    </td>
+    <!-- 项目四: 新项目 -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="[你的新项目四仓库链接]" target="_blank">
+          [新项目四的标题]
+        </a>
+      </h3>
+      <a href="[你的新项目四视频链接]" target="_blank">
+        <div align="center">
+          <img src="[你的新项目四图片原始链接]" width="90%" alt="New Project 4"/>
+        </div>
+      </a>
+      <br />
+      <p align="left">
+        [这里填写新项目四的简短描述，说明它的功能和使用的技术。]
+      </p>
+    </td>
   </tr>
   
 </table>

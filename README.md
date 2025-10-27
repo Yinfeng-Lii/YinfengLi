@@ -97,7 +97,7 @@
   </a>
       <br />
   <p align="left">
-    Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors such as gyroscopes and accelerometers, and applying a PID control algorithm to overcome the limitations of a single sensor.
+    Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors, such as gyroscopes and accelerometers, and applying a PID control algorithm to overcome the limitations of a single sensor.
   </p>
     </td>
     <!-- 动作捕捉项目 -->
@@ -109,15 +109,17 @@
       </h3>
       <br />
       <div align="center">
-      <img src="https://github.com/Yinfeng-Lii/image/main/car1.jpg" width="100%" alt="Full-Body Motion Capture Preview"/>
+      <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/car1.jpg" width="80%" alt="License Plate Recognition"/>
       </div>
       </a>
       <br />
       <p align="left">
-        ESP32-based full-body motion capture system using IMUs, that transmits live data to a web application, enabling real-time visualisation of a 3D model and tracking of human positions and postures.
+       The system allows users to select a license plate image via file opening and automatically performs plate detection and segmentation. Through grayscale conversion, binarization, morphological processing, and edge enhancement, it locates and recognizes characters. 
       </p>
     </td>
+  
   </tr>
+  
 </table>
 
 ---

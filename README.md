@@ -1,9 +1,15 @@
 # 👋 Hello, I'm Yinfeng Li (李胤锋)
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRxa2hiczBpdWhvcTVteXp6NzBkZHkzcWcydXV2a2Jra3FqamNpdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58OujxlE7e19Mjv0gj/giphy.gif" alt="Typing GIF" width="250"/>
+  <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/fs.png" alt="Yinfeng Li's Personal Header Banner">
 </div>
-
----
+<div align="center" style="font-family: sans-serif; font-size: 16px;">
+  <br>
+  <a href="#about-me"><b>👤 About</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#skills"><b>💡 Skills</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#projects"><b>🚀 Projects</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#contact"><b>📬 Contact</b></a>
+  <br>
+</div>
 
 ### About me : 
  

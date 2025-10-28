@@ -26,7 +26,7 @@
 
 - :school: My academic studies began with a Bachelor's degree in **Automation** from **Shandong University of Science and Technology**.
 
-- :man_student: I am a passionate postgraduate student currently an **MSc in Robotics** at the **University of Manchester**. 
+- :man_student: I am a passionate postgraduate student currently **in MSc  Robotics** at the **University of Manchester**. 
 
 - :microscope: Growing up with WALL·E, The Matrix, Transformers, and Pacific Rim, I found that movies were not just entertainment — they were the very beginning of my journey into robotics.
 

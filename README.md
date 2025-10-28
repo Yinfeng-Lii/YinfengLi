@@ -103,7 +103,7 @@
       <!-- 标题链接到 GitHub 仓库 -->
       <h3 align="center">
     <a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">
-      Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
+      🔗 Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
     </a>
   </h3>
       <a href="https://youtu.be/XHd4n2JKx90" target="_blank">
@@ -120,7 +120,7 @@
    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system" target="_blank">
-          "Spiritual Realm" Bionic School——Assisted Teaching System
+        🔗 "Spiritual Realm" Bionic School——Assisted Teaching System
         </a>
       </h3>
       <br>
@@ -143,7 +143,7 @@
      <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
-          License Plate Recognition
+      🔗 License Plate Recognition
         </a>
       </h3>
       <br />
@@ -160,7 +160,7 @@
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/Yinfeng-Lii/Smart-home" target="_blank">
-          Smart home system
+        🔗 Smart home system
         </a>
       </h3>
        <br>

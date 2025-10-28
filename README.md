@@ -127,7 +127,7 @@
   <br>
       <a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system/tree/main/lj/material" target="_blank">
         <div align="center">
-          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片1.jpg" width="1000%" alt="New Project 3"/>
+          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片1.jpg" width="100%" alt="New Project 3"/>
         </div>
       </a>
       <br />

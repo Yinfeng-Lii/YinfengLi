@@ -234,11 +234,11 @@
 <tr>
 <td width="50%" valign="top">
 
-<h4 align="center">Manipulator Pick-and-Place Demo</h4>
+<h4 align="center">Overall Requirement Demonstration</h4>
 
 <p align="center">
-<a href="VIDEO_LINK_1" target="_blank">
-<img src="IMAGE_LINK_1" width="90%" alt="Manipulator Pick-and-Place Demo">
+<a href="https://youtu.be/L3yg76Re4lM" target="_blank">
+<img src="https://img.shields.io/badge/Video%201-Overall%20Requirement%20Demonstration-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Overall Requirement Demonstration">
 </a>
 </p>
 
@@ -246,11 +246,11 @@
 
 <td width="50%" valign="top">
 
-<h4 align="center">System Integration Demo</h4>
+<h4 align="center">Project Overview Demonstration</h4>
 
 <p align="center">
-<a href="VIDEO_LINK_2" target="_blank">
-<img src="IMAGE_LINK_2" width="90%" alt="System Integration Demo">
+<a href="https://youtu.be/Mc94TeqiUek" target="_blank">
+<img src="https://img.shields.io/badge/Video%202-Project%20Overview%20Demonstration-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Project Overview Demonstration">
 </a>
 </p>
 
@@ -268,7 +268,9 @@
 
 <p align="left">
 <strong>Further information:</strong>
-<a href="https://github.com/Yinfeng-Lii/manipulator" target="_blank">Manipulator Repository</a>
+<a href="https://github.com/Yinfeng-Lii/manipulator" target="_blank">Manipulator Repository</a> |
+<a href="https://youtu.be/L3yg76Re4lM" target="_blank">Overall Demonstration Video</a> |
+<a href="https://youtu.be/Mc94TeqiUek" target="_blank">Project Overview Video</a>
 </p>
 
 <br>

@@ -95,89 +95,183 @@
 
 ---
 <a name="projects"></a>
+
 ## 🔬 PERSONAL PROJECTS
 
 <table width="100%">
-  <!-- Balance vehicle -->
-    <td width="50%" valign="top">
-      <!-- 标题链接到 GitHub 仓库 -->
-      <h3 align="center">
-    <a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">
-      🔗 Design and Implementation of a Control System for a Two-Wheeled Balancing Vehicle Based on Multi-Sensor Fusion
-    </a>
-  </h3>
-      <a href="https://youtu.be/XHd4n2JKx90" target="_blank">
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/balance.png" width="80%" alt="Balance vehicle project demo"/>
-    </div>
-  </a>
-      <br />
-  <p align="left">
-    Implement a stable two-wheeled balancing vehicle control system using an STM32 controller by fusing data from multiple sensors, such as gyroscopes and accelerometers, and applying a PID control algorithm to overcome the limitations of a single sensor.
-  </p>
-    </td>
-    <!-- 动作捕捉项目 -->
-   <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system" target="_blank">
-        🔗 "Spiritual Realm" Bionic School——Assisted Teaching System
-        </a>
-      </h3>
-      <br>
-  <br>
-      <a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system/tree/main/lj/material" target="_blank">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片1.jpg" width="100%" alt="New Project 3"/>
-        </div>
-      </a>
-      <br />
-      <p align="left">
-        The project aims to use virtual reality and AI to create an immersive learning system for disabled students, offering equal access, interactive education, and psychological support in a virtual classroom.
-      </p>
-    </td>
-  
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <!-- 项目三: 新项目 -->
-     <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
-      🔗 License Plate Recognition
-        </a>
-      </h3>
-      <br />
-      <div align="center">
-      <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/car1.jpg" width="60%" alt="License Plate Recognition"/>
-      </div>
-      </a>
-      <br />
-      <p align="left">
-       The system allows users to select a license plate image via file opening and automatically performs plate detection and segmentation. Through grayscale conversion, binarization, morphological processing, and edge enhancement, it locates and recognizes characters. 
-      </p>
-    </td>
-    <!-- 项目四: 新项目 -->
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/Yinfeng-Lii/Smart-home" target="_blank">
-        🔗 Smart home system
-        </a>
-      </h3>
-       <br>
-      <a href="https://youtube.com/shorts/R5R-DXSckO8" target="_blank">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/smart home.png" width="70%" alt="New Project 4"/>
-        </div>
-      </a>
-      <br />
-      <p align="left">
-        The project aims to develop an STM32-based smart home system for remote control, environmental monitoring, automatic regulation, energy saving, and data security to create a safer, more efficient home.
-      </p>
-    </td>
-  </tr>
-  
+<h3 align="center">
+<a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">
+🔗 Two-Wheeled Balancing Vehicle
+</a>
+</h3>
+
+<p align="center">
+<a href="https://youtu.be/XHd4n2JKx90" target="_blank">
+<img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/balance.png" width="80%" alt="Balance vehicle project demo">
+</a>
+</p>
+
+<p align="left">
+<strong>Goal:</strong> Build a stable two-wheeled balancing vehicle using an STM32 controller, multi-sensor fusion, and PID control.
+</p>
+
+<p align="left">
+<strong>My contribution:</strong> I contributed to embedded control design, sensor data processing, PID implementation, parameter tuning, and physical testing.
+</p>
+
+<p align="left">
+<strong>Further information:</strong>
+<a href="https://github.com/Yinfeng-Lii/balance-vehicle" target="_blank">GitHub Repository</a> |
+<a href="https://youtu.be/XHd4n2JKx90" target="_blank">Demo Video</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system" target="_blank">
+🔗 "Spiritual Realm" Assisted Teaching System
+</a>
+</h3>
+
+<p align="center">
+<a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system/tree/main/lj/material" target="_blank">
+<img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/图片1.jpg" width="90%" alt="Assisted Teaching System">
+</a>
+</p>
+
+<p align="left">
+<strong>Goal:</strong> Design an immersive VR and AI-assisted learning system to support disabled students through interactive education and psychological support.
+</p>
+
+<p align="left">
+<strong>My contribution:</strong> I contributed to the system concept, functional design, learning-scene planning, project material organisation, and presentation.
+</p>
+
+<p align="left">
+<strong>Further information:</strong>
+<a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system" target="_blank">GitHub Repository</a> |
+<a href="https://github.com/Yinfeng-Lii/assisted-teaaching-system/tree/main/lj/material" target="_blank">Project Materials</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
+🔗 License Plate Recognition
+</a>
+</h3>
+
+<p align="center">
+<a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">
+<img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/car1.jpg" width="70%" alt="License Plate Recognition">
+</a>
+</p>
+
+<p align="left">
+<strong>Goal:</strong> Develop an image-processing system that can locate, segment, and recognise vehicle licence plate characters.
+</p>
+
+<p align="left">
+<strong>My contribution:</strong> I implemented the image-processing workflow, including grayscale conversion, binarisation, morphological processing, edge enhancement, plate localisation, and character segmentation.
+</p>
+
+<p align="left">
+<strong>Further information:</strong>
+<a href="https://github.com/Yinfeng-Lii/License-Plate-Recognition" target="_blank">GitHub Repository</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+<a href="https://github.com/Yinfeng-Lii/Smart-home" target="_blank">
+🔗 Smart Home System
+</a>
+</h3>
+
+<p align="center">
+<a href="https://youtube.com/shorts/R5R-DXSckO8" target="_blank">
+<img src="https://raw.githubusercontent.com/Yinfeng-Lii/image/main/smart home.png" width="75%" alt="Smart Home System">
+</a>
+</p>
+
+<p align="left">
+<strong>Goal:</strong> Develop an STM32-based smart home system for remote control, environmental monitoring, automatic regulation, energy saving, and data security.
+</p>
+
+<p align="left">
+<strong>My contribution:</strong> I contributed to embedded system design, sensor and actuator control logic, remote-control functions, automatic environmental response, and testing.
+</p>
+
+<p align="left">
+<strong>Further information:</strong>
+<a href="https://github.com/Yinfeng-Lii/Smart-home" target="_blank">GitHub Repository</a> |
+<a href="https://youtube.com/shorts/R5R-DXSckO8" target="_blank">Demo Video</a>
+</p>
+
+</td>
+</tr>
+</table>
+<br>
+
+<h3 align="center">
+<a href="https://github.com/Yinfeng-Lii/manipulator" target="_blank">
+🔗 MSc Robotics Design Project — Autonomous Mobile Manipulation System
+</a>
+</h3>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">Manipulator Pick-and-Place Demo</h4>
+
+<p align="center">
+<a href="VIDEO_LINK_1" target="_blank">
+<img src="IMAGE_LINK_1" width="90%" alt="Manipulator Pick-and-Place Demo">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4 align="center">System Integration Demo</h4>
+
+<p align="center">
+<a href="VIDEO_LINK_2" target="_blank">
+<img src="IMAGE_LINK_2" width="90%" alt="System Integration Demo">
+</a>
+</p>
+
+</td>
+</tr>
 </table>
 
+<p align="left">
+<strong>Goal:</strong> Develop an autonomous robotic system that combines a Leo Rover mobile base, a depth camera, and a myCobot robotic arm to detect coloured objects, pick them up, navigate through the environment, and place them into colour-matched target bins.
+</p>
+
+<p align="left">
+<strong>My contribution:</strong> I was mainly responsible for the manipulator subsystem. I worked on the myCobot 280 Pi setup, ROS 2 and MoveIt 2 integration, URDF/Xacro configuration, RViz2 testing, top-down grasp strategy, pre-grasp and place motions, hardware execution through the pymycobot interface, joint-state publishing, and debugging of TF frames, controller interfaces, planning constraints, and real-arm execution behaviour.
+</p>
+
+<p align="left">
+<strong>Further information:</strong>
+<a href="https://github.com/Yinfeng-Lii/manipulator" target="_blank">Manipulator Repository</a>
+</p>
+
+<br>
 ---
 <a name="contact"></a>
 ## 📫 Get In Touch
